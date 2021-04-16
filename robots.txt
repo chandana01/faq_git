@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://chandana01.github.io/faq_git/sitemap_git20.xml
